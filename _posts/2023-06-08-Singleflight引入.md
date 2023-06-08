@@ -88,6 +88,9 @@ PASS
 </code></pre>
 
 <p>未使用 <code>singleflight</code> 时:</p>
-<img src="img/singleflight.png">
+
+<img src="https://nuszhiqinghu.github.io/img/singleflight.png" alt="MySQL并发度过大导致查询速度变慢">
+
+
 <p>MySQL 因为并发度过大导致每条查询语句速度都很慢，可见这是一个不错的优化方案。</p>
 
